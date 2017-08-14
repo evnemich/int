@@ -1,9 +1,10 @@
-Fib
-FizzBuzz
-LinkedList
-Stack
-Queue
-QuickSort
-BubbleSort
-CountSort
-Find min\max in array
+0. Fib
+1. FizzBuzz
+2. atoi (itoa)
+3. Stack (Queue)
+4. Sort (quick/bubble/insertion)
+5. Swap 2 numbers w/o new variable
+6. Prime number
+7. Narcissistic numbers
+8. Factorial
+9. Find min\max in array
